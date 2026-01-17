@@ -1,0 +1,10 @@
+SET(SOURCES ui_StartMenuScreen.c
+    ui_ManualControlScreen.c
+    ui_AutoScreen.c
+    ui.c
+    ui_comp_hook.c
+    ui_helpers.c
+    ui_events.cpp
+    ui_img_1501055002.c)
+
+add_library(ui ${SOURCES})
