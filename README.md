@@ -7,3 +7,5 @@
 Internal parts image
 ![PXL_20260105_181743442 (1)](https://github.com/user-attachments/assets/160b6af8-27f0-421d-93af-386b2095e368)
 
+https://photos.app.goo.gl/fKS5BTBgNdKHd2kd7
+
